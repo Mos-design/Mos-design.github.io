@@ -27,6 +27,8 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
+  
+  <script type="text/javascript" src="https://openapi.map.naver.com/openapi/v3/maps.js?ncpClientId=6qw67w6fmo"></script>
 
   <!-- =======================================================
   * Template Name: Moderna - v2.1.0
@@ -34,6 +36,16 @@
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
+  
+  <script>
+	var mapOptions = {
+		center: new naver.maps.LatLng(37.3595704, 127.105399),
+		zoom: 10
+	};
+
+	var map = new naver.maps.Map('map', mapOptions);
+  
+  </script>
 </head>
 
 <body>
@@ -250,6 +262,8 @@
           <h3>[그린리모델링제도를 이용한 리모델링 공사방법]</h3>
           <p>리모델링 공사중 창호공사를 목돈없이 하실수 있도록 정부에서 지원하여 주는 제도입니다.</p>
         </div>
+		
+
 
 		<!--
         <div class="row" data-aos="fade-up">
@@ -373,6 +387,8 @@
               <strong>Phone:</strong> 010-9255-9581<br>
               <strong>Email:</strong> chmo813@naver.com<br>
             </p>
+			
+			<div id="map" style="width:100%;height:400px;"></div>
 
           </div>
 
