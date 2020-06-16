@@ -45,8 +45,14 @@
 		center: new naver.maps.LatLng(37.3595704, 127.105399),
 		zoom: 10
 	};
+	
+	var map = "";
+	
+	setTimeout(function() {
+		map = new naver.maps.Map('map', mapOptions);
+	}, 1000);
 
-	var map = new naver.maps.Map('map', mapOptions);
+	
   
   </script>
 </head>
@@ -390,10 +396,9 @@
               <strong>Phone:</strong> 010-9255-9581<br>
               <strong>Email:</strong> chmo813@naver.com<br>
             </p>
-			
-			<div id="map" style="width:100%;height:400px;"></div>
-
           </div>
+		  
+		  <div id="map" style="width:100%;height:400px;"></div>
 
 		  <!--
           <div class="col-lg-3 col-md-6 footer-info">
