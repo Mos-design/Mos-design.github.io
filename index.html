@@ -42,14 +42,20 @@
   
   <script>
 	var mapOptions = {
-		center: new naver.maps.LatLng(37.3595704, 127.105399),
+		center: new naver.maps.LatLng(37.204714, 126.854114),
 		zoom: 10
 	};
 	
 	var map = "";
+	var marker = "";
 	
 	setTimeout(function() {
 		map = new naver.maps.Map('map', mapOptions);
+		
+		marker = new naver.maps.Marker({
+			position : new naver.maps.LatLng(37.204714, 126.854114),
+			map: map
+		});
 	}, 1000);
 
 	
