@@ -35,6 +35,9 @@
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
+  
+  <!-- 네이버지도 -->
+  <script type="text/javascript" src="https://openapi.map.naver.com/openapi/v3/maps.js?ncpClientId=YOUR_CLIENT_ID"></script>
 </head>
 
 <body>
@@ -144,9 +147,9 @@
 		<div class="container" data-aos="fade-up" data-aos-delay="100">
 
         <div class="section-title">
-          <h2>오시는길</h2>
-		  
-		  지도첨부예정
+			<h2>오시는길</h2>
+
+			<div id="map" style="width: 100%; height:480px;"></div>
         </div>
 	</section>
 	
@@ -205,6 +208,29 @@
 		obj.style.top = "50%";
 		obj.style.transform = "translate(-50%, -50%)";
 	}
+	
+	function initMap() {
+    map = new naver.maps.Map('map', {
+        center: new naver.maps.LatLng(37.3595704, 127.105399),
+        scaleControl: true,
+        mapTypeControl: true,
+        mapTypeControl: true,
+        mapTypeControlOptions: {
+            style: naver.maps.MapTypeControlStyle.BUTTON,
+            position: naver.maps.Position.TOP_LEFT
+        },
+        zoomControl: true,
+        zoomControlOptions: {
+            style: naver.maps.ZoomControlStyle.SMALL,
+            position: naver.maps.Position.TOP_RIGHT
+        },
+        zoom: 15
+    });
+    var marker = new naver.maps.Marker({
+        position: new naver.maps.LatLng(37.3595704, 127.105399),
+        map: map
+    });
+}
   </script>
 
 </body>
