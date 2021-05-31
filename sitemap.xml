@@ -38,15 +38,9 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://mosdesign.kr/example/exbalcony.html</loc>
+  <loc>http://mosdesign.kr/example/example.html</loc>
   <lastmod>2021-05-24T12:11:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>http://mosdesign.kr/example/exroomwindow.html</loc>
-  <lastmod>2021-05-24T12:11:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
 
 </urlset>
