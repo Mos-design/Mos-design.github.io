@@ -1,66 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/res/preview.xsl"?>
 <rss version="2.0">
   <channel>
-    <title>모스디자인 - KCC 공식인증 대리점</title>
-    <link>https://mos-design.github.io</link>
-    <description><![CDATA[모스디자인 - KCC 공식인증 대리점]]></description>
-    <lastBuildDate>Mon, 24 May 2021 11:35:22 GMT</lastBuildDate>
+    <title>모스디자인 - 그린리모델링사업자</title>
+    <link>http://mosdesign.kr</link>
+    <description><![CDATA[모스디자인 - 그린리모델링사업자]]></description>
+    <lastBuildDate>Mon, 31 May 2021 11:34:53 GMT</lastBuildDate>
+    <generator>Feed43 Proxy/1.0 (www.feed43.com)</generator>
     <ttl>360</ttl>
 
 <item>
-<guid isPermaLink="false">d4ec4b613d3136990df9502ce08c1cf9</guid>
-<pubDate>Mon, 24 May 2021 11:35:22 GMT</pubDate>
+<guid isPermaLink="false">2baf324bde76cbbf18cb2f528e2391f7</guid>
+<pubDate>Mon, 31 May 2021 11:34:53 GMT</pubDate>
 <title>Home</title>
-<link>https://mos-design.github.io/index.html</link>
-<description><![CDATA[https://mos-design.github.io/index.html<p><sub><i>-- Delivered by <a href="http://feed43.com/">Feed43</a> service</i></sub></p>
+<link>http://mosdesign.kr/index.html</link>
+<description><![CDATA[http://mosdesign.kr/index.html<p><sub><i>-- Delivered by <a href="http://feed43.com/">Feed43</a> service</i></sub></p>
 ]]></description>
 </item>
 <item>
-<guid isPermaLink="false">da7cad1ef995c021b176bb7c7e7e8d77</guid>
-<pubDate>Mon, 24 May 2021 11:35:21 GMT</pubDate>
+<guid isPermaLink="false">0aa306e1af4ce844f5bd98abc9fd5c40</guid>
+<pubDate>Mon, 31 May 2021 11:34:52 GMT</pubDate>
 <title>회사소개</title>
-<link>https://mos-design.github.io/introduce/hello.html</link>
-<description><![CDATA[https://mos-design.github.io/introduce/hello.html<p><sub><i>-- Delivered by <a href="http://feed43.com/">Feed43</a> service</i></sub></p>
+<link>http://mosdesign.kr/introduce/hello.html</link>
+<description><![CDATA[http://mosdesign.kr/introduce/hello.html<p><sub><i>-- Delivered by <a href="http://feed43.com/">Feed43</a> service</i></sub></p>
 ]]></description>
 </item>
 <item>
-<guid isPermaLink="false">d4c9ee7b0fd9af4b8ebaccf0394b203a</guid>
-<pubDate>Mon, 24 May 2021 11:35:20 GMT</pubDate>
+<guid isPermaLink="false">be93cbb390db34c2e6c3dfb735d4fe7d</guid>
+<pubDate>Mon, 31 May 2021 11:34:51 GMT</pubDate>
 <title>KCC특장점</title>
-<link>https://mos-design.github.io/product/product.html</link>
-<description><![CDATA[https://mos-design.github.io/product/product.html<p><sub><i>-- Delivered by <a href="http://feed43.com/">Feed43</a> service</i></sub></p>
+<link>http://mosdesign.kr/product/product.html</link>
+<description><![CDATA[http://mosdesign.kr/product/product.html<p><sub><i>-- Delivered by <a href="http://feed43.com/">Feed43</a> service</i></sub></p>
 ]]></description>
 </item>
 <item>
-<guid isPermaLink="false">1398bce7450f505c266377ecff793867</guid>
-<pubDate>Mon, 24 May 2021 11:35:19 GMT</pubDate>
+<guid isPermaLink="false">048f7155644bb206126494cc5eca3075</guid>
+<pubDate>Mon, 31 May 2021 11:34:50 GMT</pubDate>
 <title>발코니창호</title>
-<link>https://mos-design.github.io/product/balcony.html</link>
-<description><![CDATA[https://mos-design.github.io/product/balcony.html<p><sub><i>-- Delivered by <a href="http://feed43.com/">Feed43</a> service</i></sub></p>
+<link>http://mosdesign.kr/product/balcony.html</link>
+<description><![CDATA[http://mosdesign.kr/product/balcony.html<p><sub><i>-- Delivered by <a href="http://feed43.com/">Feed43</a> service</i></sub></p>
 ]]></description>
 </item>
 <item>
-<guid isPermaLink="false">0af8a2c7aa73510d231a63a148f1605f</guid>
-<pubDate>Mon, 24 May 2021 11:35:18 GMT</pubDate>
+<guid isPermaLink="false">90d7f720889816c005e0f1bacaa40d75</guid>
+<pubDate>Mon, 31 May 2021 11:34:49 GMT</pubDate>
 <title>내방/방창호</title>
-<link>https://mos-design.github.io/product/roomwindow.html</link>
-<description><![CDATA[https://mos-design.github.io/product/roomwindow.html<p><sub><i>-- Delivered by <a href="http://feed43.com/">Feed43</a> service</i></sub></p>
+<link>http://mosdesign.kr/product/roomwindow.html</link>
+<description><![CDATA[http://mosdesign.kr/product/roomwindow.html<p><sub><i>-- Delivered by <a href="http://feed43.com/">Feed43</a> service</i></sub></p>
 ]]></description>
 </item>
 <item>
-<guid isPermaLink="false">7fc7f200c97a37400bf8756857ad92a5</guid>
-<pubDate>Mon, 24 May 2021 11:35:17 GMT</pubDate>
+<guid isPermaLink="false">6c4c18a9313c7bb52212e92474c469a6</guid>
+<pubDate>Mon, 31 May 2021 11:34:48 GMT</pubDate>
+<title>시공사례</title>
+<link>http://mosdesign.kr/example/example.html</link>
+<description><![CDATA[http://mosdesign.kr/example/example.html<p><sub><i>-- Delivered by <a href="http://feed43.com/">Feed43</a> service</i></sub></p>
+]]></description>
+</item>
+<item>
+<guid isPermaLink="false">002c3ef3e8a14ac43790869bb7fc801c</guid>
+<pubDate>Mon, 31 May 2021 11:34:47 GMT</pubDate>
 <title>발코니창호</title>
-<link>https://mos-design.github.io/example/exbalcony.html</link>
-<description><![CDATA[https://mos-design.github.io/example/exbalcony.html<p><sub><i>-- Delivered by <a href="http://feed43.com/">Feed43</a> service</i></sub></p>
+<link>http://mosdesign.kr/example/exbalcony.html</link>
+<description><![CDATA[http://mosdesign.kr/example/exbalcony.html<p><sub><i>-- Delivered by <a href="http://feed43.com/">Feed43</a> service</i></sub></p>
 ]]></description>
 </item>
 <item>
-<guid isPermaLink="false">a3c5ee8a900023b02cd31591ad2dc595</guid>
-<pubDate>Mon, 24 May 2021 11:35:16 GMT</pubDate>
+<guid isPermaLink="false">7775fc5825801b9565fe7b10e46a1c93</guid>
+<pubDate>Mon, 31 May 2021 11:34:46 GMT</pubDate>
 <title>내방/방창호</title>
-<link>https://mos-design.github.io/example/exroomwindow.html</link>
-<description><![CDATA[https://mos-design.github.io/example/exroomwindow.html<p><sub><i>-- Delivered by <a href="http://feed43.com/">Feed43</a> service</i></sub></p>
+<link>http://mosdesign.kr/example/exroomwindow.html</link>
+<description><![CDATA[http://mosdesign.kr/example/exroomwindow.html<p><sub><i>-- Delivered by <a href="http://feed43.com/">Feed43</a> service</i></sub></p>
 ]]></description>
 </item>
 
