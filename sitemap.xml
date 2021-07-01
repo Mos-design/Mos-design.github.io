@@ -18,6 +18,11 @@
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>http://mosdesign.kr/introduce/green.html</loc>
+  <lastmod>2021-05-24T12:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>http://mosdesign.kr/introduce/hello.html</loc>
   <lastmod>2021-05-24T12:11:13+00:00</lastmod>
   <priority>0.80</priority>
@@ -42,5 +47,81 @@
   <lastmod>2021-05-24T12:11:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+<url>
+  <loc>http://mosdesign.kr/example/example1.html</loc>
+  <lastmod>2021-05-24T12:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mosdesign.kr/example/example2.html</loc>
+  <lastmod>2021-05-24T12:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mosdesign.kr/example/example3.html</loc>
+  <lastmod>2021-05-24T12:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mosdesign.kr/example/example4.html</loc>
+  <lastmod>2021-05-24T12:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mosdesign.kr/example/example5.html</loc>
+  <lastmod>2021-05-24T12:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mosdesign.kr/example/example6.html</loc>
+  <lastmod>2021-05-24T12:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mosdesign.kr/example/example7.html</loc>
+  <lastmod>2021-05-24T12:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mosdesign.kr/example/example8.html</loc>
+  <lastmod>2021-05-24T12:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mosdesign.kr/example/example9.html</loc>
+  <lastmod>2021-05-24T12:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mosdesign.kr/example/example10.html</loc>
+  <lastmod>2021-05-24T12:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mosdesign.kr/example/example11.html</loc>
+  <lastmod>2021-05-24T12:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mosdesign.kr/example/example12.html</loc>
+  <lastmod>2021-05-24T12:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mosdesign.kr/example/example13.html</loc>
+  <lastmod>2021-05-24T12:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mosdesign.kr/example/example14.html</loc>
+  <lastmod>2021-05-24T12:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://mosdesign.kr/example/example15.html</loc>
+  <lastmod>2021-05-24T12:11:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
 
 </urlset>
